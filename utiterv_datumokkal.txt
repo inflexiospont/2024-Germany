@@ -1,0 +1,21 @@
+Útiterv dátumokkal
+
+Ha vasárnap (28-án) indulunk:
+    (Ha csak hétfőn tudunk indulni, akkor minden dátum csúszik egy napot)
+
+Prága: Júl. 28, 1 éjszaka
+    -> Prága
+
+Lipcse: Júl. 29-30, 2 éjszaka
+    -> Lipcse
+    -> Drezda
+    -> Berlin
+
+
+München: Júl. 31 - Aug 1, 2 éjszaka  
+    -> Nürnberg
+    -> München
+    -> Rottenburg ?
+    -> Neuschwanstein kastély
+
+Münchenből haza Ausztrián keresztül
